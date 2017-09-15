@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Docs\Handout - 02.  Hello world.docx" />
+    <None Include="Docs\Handout - 02.  Hello world.pdf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
